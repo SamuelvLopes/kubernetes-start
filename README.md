@@ -1,13 +1,13 @@
 # kubernetes-start
 
-minikube start --driver=docker
-minikube status
-minikube stop
-minikube dashboard
-minikube dashboard --url
+### minikube start --driver=docker
+### minikube status
+### minikube stop
+### minikube dashboard
+### minikube dashboard --url
 
-kubectl create deployment <nome> --image=<nome da imagem>
+### kubectl create deployment <nome> --image=<nome da imagem>
 
-kubectl get deployments
+### kubectl get deployments
 
-kubectl describe deployments
+### kubectl describe deployments
