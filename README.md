@@ -17,3 +17,12 @@
 
 ### kubectl expose deployment <NOME> --type=<tipo> --port=<port>
 ### kubectl expose deployment kubtest --type=LoadBalancer --port=5000
+
+
+### minikube service kubtest
+
+### kubectl create deployment testekube --image=samuellopes123/pykub
+### kubectl expose deployment testekube --type=LoadBalancer --port=5000
+### minikube service testekube
+### minikube tunnel
+
