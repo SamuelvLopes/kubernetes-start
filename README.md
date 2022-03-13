@@ -9,5 +9,11 @@
 ### kubectl create deployment <nome> --image=<nome da imagem>
 
 ### kubectl get deployments
-
+### kubectl get pods
 ### kubectl describe deployments
+### kubectl describe pods
+### kubectl config view
+
+
+### kubectl expose deployment <NOME> --type=<tipo> --port=<port>
+### kubectl expose deployment kubtest --type=LoadBalancer --port=5000
