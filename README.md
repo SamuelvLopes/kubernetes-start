@@ -31,3 +31,5 @@
 
 
 ### kubectl scale deployment/testekube --replicas=5
+### kubectl get pods
+### kubectl get rs
