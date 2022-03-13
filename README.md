@@ -26,3 +26,8 @@
 ### minikube service testekube
 ### minikube tunnel
 
+### kubectl get services
+### kubectl describe services/testekube
+
+
+### kubectl scale deployment/testekube --replicas=5
