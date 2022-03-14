@@ -30,6 +30,8 @@
 ### kubectl describe services/testekube
 
 
-### kubectl scale deployment/testekube --replicas=5
+### kubectl scale deployment/testekube --replicas=4
 ### kubectl get pods
 ### kubectl get rs
+
+### kubectl set image deployment testekube pykub=samuellopes123/pykub:2
