@@ -35,3 +35,5 @@
 ### kubectl get rs
 
 ### kubectl set image deployment testekube pykub=samuellopes123/pykub:2
+
+### kubectl rollout status deployment/testekube
