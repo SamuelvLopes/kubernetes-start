@@ -39,3 +39,5 @@
 ### kubectl rollout status deployment/testekube
 
 ### kubectl delete service testekube
+
+### kubectl delete deployment testekube
