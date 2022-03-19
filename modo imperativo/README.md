@@ -41,3 +41,5 @@
 ### kubectl delete service testekube
 
 ### kubectl delete deployment testekube
+
+### minikube stop
